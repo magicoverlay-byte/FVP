@@ -1,1 +1,1 @@
-bash <(curl -l -s https://raw.githubusercontent.com/zzzhhh1/free-vps-py/refs/heads/main/test.sh)
+bash <(curl -l -s https://raw.githubusercontent.com/magicoverlay-byte/FVP/refs/heads/main/test.sh)
